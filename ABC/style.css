@@ -1,0 +1,26 @@
+/* Background colour grey */
+body {
+    background-color: grey;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* All h3 green by default */
+h3 {
+    color: green;
+}
+
+/* Class to apply blue colour */
+.blue-text {
+    color: blue;
+}
+
+/* One h3 red */
+.red-text {
+    color: red;
+}
+
+/* Image styling */
+.images img {
+    margin: 10px;
+}
